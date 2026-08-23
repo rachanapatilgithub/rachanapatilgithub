@@ -1,41 +1,36 @@
-# Hi, I'm Rachana Patil 👋
+### Hi, I'm Rachana Patil 👋
 
-## Software Testing Fresher
+Software Testing fresher specializing in **Manual + Automation Testing** — building interview-ready projects with Selenium, Playwright, Java and SQL.
 
-🎓 MCA | PG-DAC (CDAC)
+Every application I test, I test twice: once by hand (requirements, test design, bug reports) and once in code (Page Object Model automation) — so each project pair below tells the same story from both sides of QA.
 
-### 🔹 Manual Testing
-- Requirement Analysis
-- Test Scenario & Test Case Design
-- RTM (Requirement Traceability Matrix)
-- Smoke Testing
-- Sanity Testing
-- Functional Testing
-- Regression Testing
-- Bug Reporting
+---
 
-### 🔹 Automation Testing
-- Java 17
-- Selenium WebDriver
-- TestNG
-- Maven
-- Page Object Model (POM)
-- WebDriverManager
-- Cucumber (Basic)
+#### 🧪 Featured Projects
 
-### 🔹 Tools
-- Git
-- GitHub
-- Jira (Basic)
-- Postman (Basic)
-- Eclipse IDE
+**CubeCart E-Commerce** — a live demo store, tested two ways:
+- [CubeCart-Selenium-Automation-Framework-Project](https://github.com/rachanapatilgithub/CubeCart-Selenium-Automation-Framework-Project) — Selenium + TestNG + Cucumber, 146 tests across 5 modules, 3 real defects found
+- [CubeCart-Selenium-Manual-Testing-Project](https://github.com/rachanapatilgithub/CubeCart-Selenium-Manual-Testing-Project) — full manual QA docs: STLC, RTM, 146 test cases, 5 logged bugs
+- [CubeCart-Playwright-Automation-Framework-Project](https://github.com/rachanapatilgithub/CubeCart-Playwright-Automation-Framework-Project) — the same app in Playwright, built to compare it against Selenium hands-on
+- [CubeCart-Playwright-Manual-Testing-Project](https://github.com/rachanapatilgithub/CubeCart-Playwright-Manual-Testing-Project) — manual coverage for the Playwright scope
 
-### 📌 Featured Projects
-- CubeCart Manual Testing Project
-- CubeCart Selenium Automation Framework
-- SQL Practice
+**RedBus Trip Planner** — a real trip planned end-to-end on redBus.in, tested two ways:
+- [RedBusTripPlanner-Selenium-Automation-Project](https://github.com/rachanapatilgithub/RedBusTripPlanner-Selenium-Automation-Project) — 164 automated test cases, finds the best-rated bus & hotel for real
+- [RedBusTripPlanner-Selenium-Manual-Testing-Project](https://github.com/rachanapatilgithub/RedBusTripPlanner-Selenium-Manual-Testing-Project) — 104 manual test cases written from the working automation
 
-📧 Email: rachanasanjaypatil@gmail.com
+---
 
-💼 LinkedIn:
-https://www.linkedin.com/in/rachanapatil07385b229
+#### 🛠️ Skills
+
+**Manual Testing:** STLC, Test Case Design, Boundary Value Analysis, Equivalence Partitioning, Requirement Traceability Matrix, Bug Reporting, Smoke/Sanity/Regression Suites
+
+**Automation:** Selenium WebDriver, Playwright, TestNG, Cucumber (BDD), Page Object Model, Maven, ExtentReports
+
+**Languages & Tools:** Java, SQL, Git & GitHub, Eclipse, MySQL Workbench
+
+---
+
+#### 📫 Reach me
+
+- LinkedIn: [linkedin.com/in/rachana-patil-07385b229](https://linkedin.com/in/rachana-patil-07385b229)
+- Email: rachanasanjaypatil@gmail.com
