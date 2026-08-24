@@ -18,13 +18,19 @@ Every application I test, I test twice: once by hand (requirements, test design,
 - [RedBusTripPlanner-Selenium-Automation-Project](https://github.com/rachanapatilgithub/RedBusTripPlanner-Selenium-Automation-Project) — 164 automated test cases, finds the best-rated bus & hotel for real
 - [RedBusTripPlanner-Selenium-Manual-Testing-Project](https://github.com/rachanapatilgithub/RedBusTripPlanner-Selenium-Manual-Testing-Project) — 104 manual test cases written from the working automation
 
+**API Testing** — moving beyond the UI layer, tested two ways:
+- [API-Testing-Practice](https://github.com/rachanapatilgithub/API-Testing-Practice) — manual/exploratory Postman collection against a REST API
+- [JSONPlaceholder-RestAssured-Automation-Project](https://github.com/rachanapatilgithub/JSONPlaceholder-RestAssured-Automation-Project) — the same API coverage automated with REST Assured + TestNG
+
 ---
 
 #### 🛠️ Skills
 
 **Manual Testing:** STLC, Test Case Design, Boundary Value Analysis, Equivalence Partitioning, Requirement Traceability Matrix, Bug Reporting, Smoke/Sanity/Regression Suites
 
-**Automation:** Selenium WebDriver, Playwright, TestNG, Cucumber (BDD), Page Object Model, Maven, ExtentReports
+**Automation:** Selenium WebDriver, Playwright, REST Assured, TestNG, Cucumber (BDD), Page Object Model, Maven, ExtentReports
+
+**API Testing:** Postman, REST Assured, HTTP methods & status codes, request/response validation
 
 **Languages & Tools:** Java, SQL, Git & GitHub, Eclipse, MySQL Workbench
 
