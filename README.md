@@ -22,6 +22,8 @@ Every application I test, I test twice: once by hand (requirements, test design,
 - [API-Testing-Practice](https://github.com/rachanapatilgithub/API-Testing-Practice) — manual/exploratory Postman collection against a REST API
 - [JSONPlaceholder-RestAssured-Automation-Project](https://github.com/rachanapatilgithub/JSONPlaceholder-RestAssured-Automation-Project) — the same API coverage automated with REST Assured + TestNG
 
+**QA-Test-Case-Auditor-Project** — A custom Java & Maven command-line tool built using Apache POI to automatically parse Excel test suites and Requirement Traceability Matrices (RTM) for coverage gap analysis and validation reporting.
+
 ---
 
 #### 🛠️ Skills
