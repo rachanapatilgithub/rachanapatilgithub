@@ -8,6 +8,10 @@ Every application I test, I test twice: once by hand (requirements, test design,
 
 #### 🧪 Featured Projects
 
+### 🤖 AI-Powered & Advanced QA Projects
+- **CubeCart E-Commerce (AI-Assisted Automation)**
+  - [CubeCart-Selenium-Automation-Framework-with-Copilot-Agent](https://github.com/rachanapatilgithub/CubeCart-Selenium-Automation-Framework-with-Copilot-Agent) — Selenium + TestNG + Cucumber BDD, built with GitHub Copilot Agent integration, hybrid framework
+
 **CubeCart E-Commerce** — a live demo store, tested two ways:
 - [CubeCart-Selenium-Automation-Framework-Project](https://github.com/rachanapatilgithub/CubeCart-Selenium-Automation-Framework-Project) — Selenium + TestNG + Cucumber, 146 tests across 5 modules, 3 real defects found
 - [CubeCart-Selenium-Manual-Testing-Project](https://github.com/rachanapatilgithub/CubeCart-Selenium-Manual-Testing-Project) — full manual QA docs: STLC, RTM, 146 test cases, 5 logged bugs
@@ -27,6 +31,9 @@ Every application I test, I test twice: once by hand (requirements, test design,
 - [CubeCart-SQL-Database-Testing](https://github.com/rachanapatilgithub/CubeCart-SQL-Database-Testing) — manual backend test design, schema mapping, and relational validation specifications
 - [CubeCart-SQL-Database-Testing](https://github.com/rachanapatilgithub/CubeCart-SQL-Database-Testing) — A custom **MySQL** relational database project structured with normalization, DML test data, and backend validation queries (**Joins, Aggregates, WHERE filters**) for CubeCart modules.
 
+
+- **QA Test Case Auditor**
+- [QA-Test-Case-Auditor-Project](https://github.com/rachanapatilgithub/QA-Test-Case-Auditor-Project) — A rule-based Java and Maven utility using Apache POI to audit QA test case Excel sheets against fixed hygiene rules (checking unique IDs and mandatory fields) and generating professional Excel summaries.
 
 ---
 
